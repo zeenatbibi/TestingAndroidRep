@@ -1,2 +1,2 @@
 # TestingAndroidRep
-this is for testing
+this is for testing and today is friday
